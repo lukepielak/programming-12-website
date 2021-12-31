@@ -1265,7 +1265,6 @@ body {
 	-webkit-text-fill-color: transparent;
 	-moz-text-fill-color: transparent;
 	text-align: center;
-
 	
 }
 
@@ -1346,14 +1345,15 @@ body {
 	padding-top: 30px;
 	border: solid;
 	background-color: black;
-	margin-left: 130px;
-	margin-right: 130px;
+	margin-left: auto;
+	margin-right: auto;
 	position: center;
 	padding-bottom: 40px;
   padding-left: 30px;
   padding-right: 30px;
   text-align: center;
   overflow: auto;
+  max-width:1100px;
   
 }
 
@@ -1370,7 +1370,6 @@ body {
 
 .blog1media {
   max-width: 400px;
-  float: right;
   vertical-align: top;
   display: inline-block;
   margin-left: 10px;
