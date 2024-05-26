@@ -2,4 +2,4 @@
 
 Hey! This website is a project for my programming 12 class.
 
-I'm still learning how to program so I apologize if things are messy!
+View the website at the following link: [https://lukepielak.github.io/luke's%20website.html](url)
